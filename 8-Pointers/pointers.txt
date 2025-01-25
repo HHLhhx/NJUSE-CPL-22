@@ -1,0 +1,11 @@
+(1) A "variable" has its "type", "value" and "address".
+(2) A "variable" can be used as a "rvalue" or a "lvalue".
+-----------> radius.c
+
+(3) A "pointer" is a "variable" that contains the "address of a variable".
+
+(4) In "expressions", the "name" of an array is a synonym for "the address of its first element".
+-----------> selection-sort.c
+
+(5) But an array name is "NOT" a variable.
+-----------> radius.c
